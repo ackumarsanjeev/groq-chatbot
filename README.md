@@ -2,7 +2,7 @@
 
 A blazing-fast, real-time chatbot built using the [Groq API](https://console.groq.com/) and Meta's open-source **LLaMA 3-70B** model. This Python-based terminal assistant demonstrates how powerful and responsive LLMs can be when run on Groq’s custom AI hardware.
 
-![Banner](chatbot.png) <!-- Replace with actual banner file path -->
+![Banner](/home/sanjeevackumar/DSML/groq-chatbot/chatbot.png) <!-- Replace with actual banner file path -->
 
 ---
 
